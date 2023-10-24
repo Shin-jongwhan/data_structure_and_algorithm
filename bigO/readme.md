@@ -8,4 +8,7 @@
 - O(N) : 시간복잡도가 단계가 상승할 때마다 증가하는 것
 - O(logN) == O(log₂N) : 컴퓨터 과학에서는 밑이 2인 log 와 그냥 log 를 같은 것이라 한다. 이진 검색이 O(logN) 에 해당한다.
   ![image](https://github.com/Shin-jongwhan/data_structure_and_algorithm/assets/62974484/6c3155f7-cb44-4c04-9c4c-734e1740bca9)
+### <br/><br/><br/>
 
+## 각 빅 오 표기마다의 시간복잡도
+#### ![image](https://github.com/Shin-jongwhan/data_structure_and_algorithm/assets/62974484/a9661e40-d6c0-45f6-be0a-21ffbf6f5c75)
