@@ -11,4 +11,5 @@
 ### <br/><br/><br/>
 
 ## 각 빅 오 표기마다의 시간복잡도
-#### ![image](https://github.com/Shin-jongwhan/data_structure_and_algorithm/assets/62974484/a9661e40-d6c0-45f6-be0a-21ffbf6f5c75)
+#### ![image](https://github.com/Shin-jongwhan/data_structure_and_algorithm/assets/62974484/e55eb534-bea7-4e19-8d23-513207eabe24)
+
